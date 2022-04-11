@@ -1,6 +1,6 @@
-ScreenShot/
-Temp/
-UserCache/
-/EventLog.txt
+/Temp
+/UserCache
+/ScreenShot
 /GameOption.txt
 /GameOptionLauncher.txt
+/EventLog.txt
